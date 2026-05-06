@@ -57,15 +57,30 @@ CTO & System Builder. Bridging high-performance infrastructure, hardware-softwar
 ## Architecture Snapshot
 
 ```mermaid
-flowchart LR
-    A[Market / On-chain Feeds] --> B[Ingestion]
-    B --> C[Normalization + Labeling]
-    C --> D[Signal Engine]
-    D --> E[Risk Gate]
-    E --> F[Execution Router]
-    F --> G[Execution Venue / DEX]
-    G --> H[Telemetry + Post-Trade Analytics]
-    H --> D
+flowchart TD
+    classDef layer fill:none,stroke:#555,stroke-width:1px,stroke-dasharray: 5 5;
+    classDef core fill:#111,stroke:#333,stroke-width:1px,color:#fff;
+    classDef io fill:#f9f9f9,stroke:#999,stroke-width:1px,color:#000;
+
+    subgraph Data Pipeline
+        A[Market / On-chain Feeds]:::io --> B(Ingestion)
+        B --> C(Normalization + Labeling)
+    end
+
+    subgraph Alpha Engine
+        C --> D{Signal Engine}:::core
+        D -->|Trade Intent| E[Risk Gate]:::core
+    end
+
+    subgraph Execution Routing
+        E -->|Validation Pass| F[Execution Router]:::core
+        F <--> G[(Execution Venue / DEX)]:::io
+    end
+
+    F --> H[Telemetry + Post-Trade Analytics]:::io
+    H -.->|Model Update / Feedback| D
+
+    class Data Pipeline,Alpha Engine,Execution Routing layer;
 ```
 
 ## Activity
