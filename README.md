@@ -2,7 +2,6 @@
 
 CTO & System Builder. Focused on data-driven execution, anti-fragile system design, and deterministic architectures across quant and infrastructure domains.
 
-![Palette](https://img.shields.io/badge/Palette-Black%20%7C%20White%20%7C%20Red-8b0000?style=flat-square)
 
 ## Profile Matrix
 
