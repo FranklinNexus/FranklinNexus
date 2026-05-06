@@ -12,6 +12,7 @@ Core_Stack       : [██████████] Python / Rust (Quant Engine 
 Hardware_Synergy : [████████░░] C / C++ / RISC-V / FPGA (AX7020)
 Agentic_Workflow : [█████████░] Workflow Automation / LLM Orchestration
 Build_Horizon    : [██████████] 2+ Years, 18 Production Iterations
+Current_Bandwidth: Auditing FPGA quantization bottlenecks and AlphaHunter DEX routing.
 ```
 
 ## Core Infrastructure Deployments
@@ -20,7 +21,7 @@ Build_Horizon    : [██████████] 2+ Years, 18 Production Iter
 | :--- | :--- | :--- | :--- |
 | **LASZLO** | Quant Terminal | Real-time microstructure analysis and deterministic execution routing. [Architecture](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal) | ![Production](https://img.shields.io/badge/Production-8b0000?style=flat-square) |
 | **Edge Inference Synergy** | Hardware / AI | Profiling LLM bottlenecks and operator-level quantization on FPGA and RISC-V targets. [WIP Notes](https://github.com/FranklinNexus/FranklinNexus.github.io) | ![Research WIP](https://img.shields.io/badge/Research-WIP-6b7280?style=flat-square) |
-| **SurferGarage 2.0** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://www.wisdomechoes.net) | ![Incubating](https://img.shields.io/badge/Incubating-111111?style=flat-square) |
+| **SurferGarage** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://www.wisdomechoes.net) | ![Incubating](https://img.shields.io/badge/Incubating-111111?style=flat-square) |
 
 ## Execution Flow: AlphaHunter
 
@@ -35,9 +36,3 @@ Build_Horizon    : [██████████] 2+ Years, 18 Production Iter
 - **Quant Systems:** shipped 18 iterations on terminal architecture from ingestion to execution path.
 - **Infrastructure:** designed deterministic control flow with explicit risk gating before order routing.
 - **Hardware Track:** active FPGA/RISC-V inference profiling for bandwidth and quantization bottlenecks.
-
-## Activity
-
-[![Followers](https://img.shields.io/github/followers/FranklinNexus?style=flat-square&labelColor=111111&color=8b0000)](https://github.com/FranklinNexus?tab=followers)
-[![Stars](https://img.shields.io/github/stars/FranklinNexus?style=flat-square&labelColor=111111&color=8b0000)](https://github.com/FranklinNexus?tab=stars)
-[![Repositories](https://img.shields.io/badge/Repositories-11-8b0000?style=flat-square)](https://github.com/FranklinNexus?tab=repositories)
