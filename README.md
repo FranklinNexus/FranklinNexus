@@ -1,6 +1,8 @@
-# Kurushi Minai (FranklinNexus) ⚡
+# Kuroshi Mira (FranklinNexus) ⚡
 
 CTO & System Builder. Focused on data-driven execution, anti-fragile system design, and deterministic architectures across quant and infrastructure domains.
+
+![Palette](https://img.shields.io/badge/Palette-Black%20%7C%20White%20%7C%20Red-8b0000?style=flat-square)
 
 ## Terminal / Profile Matrix
 
@@ -16,9 +18,9 @@ Build_Horizon    : [██████████] 2+ Years, 18 Production Iter
 
 | System / Project | Domain | Architecture & Focus | Status |
 | :--- | :--- | :--- | :--- |
-| **AlphaHunter (LASZLO)** | Quant Terminal | Real-time microstructure analysis and deterministic execution routing. [Architecture](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal) | ![Production](https://img.shields.io/badge/Production-black?style=flat-square) |
+| **LASZLO** | Quant Terminal | Real-time microstructure analysis and deterministic execution routing. [Architecture](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal) | ![Production](https://img.shields.io/badge/Production-8b0000?style=flat-square) |
 | **Edge Inference Synergy** | Hardware / AI | Profiling LLM bottlenecks and operator-level quantization on FPGA and RISC-V targets. [WIP Notes](https://github.com/FranklinNexus/FranklinNexus.github.io) | ![Research WIP](https://img.shields.io/badge/Research-WIP-6b7280?style=flat-square) |
-| **SurferGarage 2.0** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://www.wisdomechoes.net) | ![Incubating](https://img.shields.io/badge/Incubating-1f2937?style=flat-square) |
+| **SurferGarage 2.0** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://www.wisdomechoes.net) | ![Incubating](https://img.shields.io/badge/Incubating-111111?style=flat-square) |
 
 ## Execution Flow: AlphaHunter
 
@@ -36,6 +38,6 @@ Build_Horizon    : [██████████] 2+ Years, 18 Production Iter
 
 ## Activity
 
-[![Followers](https://img.shields.io/github/followers/FranklinNexus?style=flat-square)](https://github.com/FranklinNexus?tab=followers)
-[![Stars](https://img.shields.io/github/stars/FranklinNexus?style=flat-square)](https://github.com/FranklinNexus?tab=stars)
-[![Repositories](https://img.shields.io/badge/Repositories-11-black?style=flat-square)](https://github.com/FranklinNexus?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/FranklinNexus?style=flat-square&labelColor=111111&color=8b0000)](https://github.com/FranklinNexus?tab=followers)
+[![Stars](https://img.shields.io/github/stars/FranklinNexus?style=flat-square&labelColor=111111&color=8b0000)](https://github.com/FranklinNexus?tab=stars)
+[![Repositories](https://img.shields.io/badge/Repositories-11-8b0000?style=flat-square)](https://github.com/FranklinNexus?tab=repositories)
