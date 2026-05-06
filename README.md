@@ -31,8 +31,8 @@ CTO & System Builder. Bridging high-performance infrastructure, hardware-softwar
     <td valign="top">
       <b>Edge Inference & Hardware Synergy</b><br>
       Profiling LLM inference bottlenecks and quantization paths on FPGA (AX7020) and RISC-V platforms.<br><br>
-      <a href="https://github.com/FranklinNexus?tab=repositories">Research Log</a> |
-      <a href="https://github.com/FranklinNexus?tab=repositories">Metrics</a>
+      <a href="https://github.com/FranklinNexus/FranklinNexus.github.io">Research Log</a> |
+      <a href="https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal">Metrics</a>
     </td>
     <td width="120" align="right" valign="top">
       <img src="https://img.shields.io/badge/Stage-Experiment-black?style=flat-square" alt="Stage">
@@ -45,8 +45,8 @@ CTO & System Builder. Bridging high-performance infrastructure, hardware-softwar
     <td valign="top">
       <b>SurferGarage 2.0</b><br>
       Permissionless contribution and reputation architecture with transparent routing and anti-fragile design rules.<br><br>
-      <a href="https://github.com/FranklinNexus?tab=repositories">Protocol Specs</a> |
-      <a href="https://github.com/FranklinNexus?tab=repositories">Ecosystem</a>
+      <a href="https://www.wisdomechoes.net">Protocol Specs</a> |
+      <a href="https://www.wisdomechoes.net">Ecosystem</a>
     </td>
     <td width="120" align="right" valign="top">
       <img src="https://img.shields.io/badge/Track-Infra-black?style=flat-square" alt="Track">
