@@ -2,8 +2,9 @@
 
 CTO & System Builder. Focused on data-driven execution, anti-fragile system design, and deterministic architectures across quant and infrastructure domains.
 
+![Palette](https://img.shields.io/badge/Palette-Black%20%7C%20White%20%7C%20Red-8b0000?style=flat-square)
 
-## Terminal / Profile Matrix
+## Profile Matrix
 
 ```text
 > system_profiler SPHardwareDataType
@@ -14,15 +15,15 @@ Build_Horizon    : [██████████] 2+ Years, 18 Production Iter
 Current_Bandwidth: Auditing FPGA quantization bottlenecks and AlphaHunter DEX routing.
 ```
 
-## Core Infrastructure Deployments
+## Deployment Matrix
 
 | System / Project | Domain | Architecture & Focus | Status |
 | :--- | :--- | :--- | :--- |
-| **LASZLO** | Quant Terminal | Real-time microstructure analysis and deterministic execution routing. [Architecture](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal) | ![Production](https://img.shields.io/badge/Production-8b0000?style=flat-square) |
+| **AlphaHunter (LASZLO)** | Quant Terminal | Real-time microstructure analysis and deterministic execution routing. [Architecture](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal) | ![Production](https://img.shields.io/badge/Production-8b0000?style=flat-square) |
 | **Edge Inference Synergy** | Hardware / AI | Profiling LLM bottlenecks and operator-level quantization on FPGA and RISC-V targets. [WIP Notes](https://github.com/FranklinNexus/FranklinNexus.github.io) | ![Research WIP](https://img.shields.io/badge/Research-WIP-6b7280?style=flat-square) |
-| **SurferGarage** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://www.wisdomechoes.net) | ![Incubating](https://img.shields.io/badge/Incubating-111111?style=flat-square) |
+| **SurferGarage 2.0** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://www.wisdomechoes.net) | ![Incubating](https://img.shields.io/badge/Incubating-111111?style=flat-square) |
 
-## Execution Flow: AlphaHunter
+## Execution Flow
 
 ```text
 [Market/On-chain Feeds] --> (Ingestion) --> (Signal Engine) --> [Risk Gate] --> (Execution Router) --> [DEX/Venue]
