@@ -2,6 +2,7 @@
 
 CTO & System Builder. Focused on data-driven execution, anti-fragile system design, and deterministic architectures across quant and infrastructure domains.
 
+![Palette](https://img.shields.io/badge/Palette-Black%20%7C%20White%20%7C%20%23e43c39-e43c39?style=flat-square)
 
 ## Profile Matrix
 
@@ -18,7 +19,7 @@ Current_Bandwidth: Auditing FPGA quantization bottlenecks and AlphaHunter DEX ro
 
 | System / Project | Domain | Architecture & Focus | Status |
 | :--- | :--- | :--- | :--- |
-| **AlphaHunter (LASZLO)** | Quant Terminal | Real-time microstructure analysis and deterministic execution routing. [Architecture](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal) | ![Production](https://img.shields.io/badge/Production-8b0000?style=flat-square) |
+| **AlphaHunter (LASZLO)** | Quant Terminal | Real-time microstructure analysis and deterministic execution routing. [Architecture](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal) | ![Production](https://img.shields.io/badge/Production-e43c39?style=flat-square) |
 | **Edge Inference Synergy** | Hardware / AI | Profiling LLM bottlenecks and operator-level quantization on FPGA and RISC-V targets. [WIP Notes](https://github.com/FranklinNexus/FranklinNexus.github.io) | ![Research WIP](https://img.shields.io/badge/Research-WIP-6b7280?style=flat-square) |
 | **SurferGarage 2.0** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://www.wisdomechoes.net) | ![Incubating](https://img.shields.io/badge/Incubating-111111?style=flat-square) |
 
