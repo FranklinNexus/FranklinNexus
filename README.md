@@ -1,71 +1,63 @@
-# Hi, I'm Kuroshi Mira1 👋
+# FranklinNexus | Web3 Data Engineer & Quant Developer
 
-> Builder of practical software. Focused on Python, infrastructure, and frontend engineering.
+Results-driven builder focused on high-performance on-chain data indexing, smart money intelligence, and quantitative trading system architecture.
 
-## About Me
+## About
 
-- 🔭 Currently building practical projects with Python + Web stack
-- 🌱 Learning deeply in system design, infra, and AI tooling
-- ⚡ Preference: clean architecture, reproducibility, and measurable results
-- 📍 Shanghai
+- Core developer of an institutional-grade crypto trading terminal (`v18.0`) using `Rust` + `Python`
+- Specialized in low-latency chain parsing, data labeling, and execution-ready data pipelines
+- Experienced in designing `DePIN x AI Agent` protocols from edge runtime to Web3 data orchestration
+- Background in microelectronics (`RISC-V`, `FPGA`) for bottom-up performance optimization
+- Location: Shanghai, China
+
+## Core Competencies
+
+- **Smart Money Tracking & On-Chain Arbitrage**: fast extraction, cleaning, and labeling of mempool and DEX data
+- **AI Infrastructure Integration**: SOTA reasoning models, `RAG`, and `MCP` integrated into automated trading/data workflows
+- **Quant Systems Engineering**: robust strategy pipeline design, risk controls, and production-grade modular architecture
+- **Hardware/Software Synergy**: hardware-level understanding applied to runtime efficiency and parser performance
+
+## Experience
+
+### Quant Developer & Architect | LASZLO Terminal (2025 - 2026)
+
+- Engineered and maintained an institutional-grade quantitative crypto trading terminal in `Rust` and `Python`
+- Built ultra-low latency on-chain parsers for smart money tracking and arbitrage execution
+- Scaled architecture through 18 production versions with tactical automation powered by reasoning models
+
+### Core Protocol Architect (AI Agent & DePIN) | BARK Protocol (2025 - 2026)
+
+- Architected full pipeline: `Edge Node -> Agent Runtime -> Data Layer -> Web3 Infrastructure`
+- Designed standardized JSON schemas for agentic workflows (emotion classification, severity scoring, etc.)
+- Formulated initial tokenomics model (`1B $BARK`) across Solana and BNB Chain
 
 ## Tech Stack
 
-**Languages**
+`Rust` `Python` `Web3` `DeFi` `Data Engineering` `Quantitative Research` `Smart Contracts` `AI API` `MCP` `RAG`
 
-`Python` `JavaScript` `TypeScript` `SQL`
+## Open To Work
 
-**Backend / Infra**
+Currently seeking **remote, part-time** roles:
 
-`FastAPI` `Flask` `Node.js` `Docker` `Linux` `GitHub Actions`
+- Data Indexer
+- Node Operator
+- DevOps Contractor
 
-**Frontend**
+I can drop into existing Web3 data stacks quickly and deliver high-signal, low-noise data feeds with minimal management overhead.
 
-`React` `Vite` `Tailwind CSS`
+## Profile
 
-## Featured Projects
+- Experience: 2 years
+- Hourly rate: $25
+- Expected yearly salary: $12,000
+- Nationality / Residency: China
+- Languages: Chinese (Mandarin), English
 
-### 1) Omni-Asset Quant Terminal
-
-Multi-asset quant research and execution terminal.
-
-- Designed modular strategy pipeline (data -> signal -> execution)
-- Added risk controls and monitoring hooks for safer deployments
-- Focus: reliability and fast iteration for research workflows
-
-### 2) Nyxscan
-
-Security-oriented scanning and analysis toolkit.
-
-- Built pluggable scan architecture for extensibility
-- Added structured report outputs for easier triage
-- Focus: actionable findings and automation-friendly output
-
-### 3) ESG-WorkFlow-Software
-
-Workflow system for ESG-related processes and collaboration.
-
-- Implemented process modules with clearer state transitions
-- Added role-based process controls and validation logic
-- Focus: operational clarity and maintainability
-
-## Engineering Principles
-
-- Build things that can be reproduced and measured
-- Keep interfaces simple, internals robust
-- Prioritize testability and maintainability over short-term hacks
-
-## Current Focus (2026)
-
-- Advanced backend architecture
-- AI + engineering productivity workflows
-- Open-source collaboration and long-term project maintenance
-
-## Contact
+## Links
 
 - GitHub: [@FranklinNexus](https://github.com/FranklinNexus)
-- Website: [www.kkdsmwdooo.net](https://www.kkdsmwdooo.net)
+- Website: [kkdsmwdooo.net](https://www.kkdsmwdooo.net)
 
 ---
 
-If you're interested in collaboration, feel free to open an issue or start a discussion in any project.
+If you are building serious Web3 data infrastructure, feel free to connect.
