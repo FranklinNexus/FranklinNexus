@@ -6,29 +6,13 @@ Builder focused on high-performance systems, deterministic quant pipelines, and 
 
 ## Featured Projects
 
-### AlphaHunter / Omni-Asset Quant Terminal
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranklinNexus&repo=Omni-Asset-Quant-Terminal&theme=transparent&hide_border=true)](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranklinNexus&repo=Nyxscan&theme=transparent&hide_border=true)](https://github.com/FranklinNexus/Nyxscan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FranklinNexus&repo=FranklinNexus.github.io&theme=transparent&hide_border=true)](https://github.com/FranklinNexus/FranklinNexus.github.io)
 
-Low-latency research-to-execution system in `Rust` + `Python`.
-
-- Result: 18 production iterations shipped
-- Scope: ingestion -> signal -> risk -> execution
-- Target: p95 routing latency < 50ms (benchmark in progress)
-
-### Edge Inference Research
-
-Hardware/software co-design on `FPGA (AX7020)` and `RISC-V`.
-
-- Focus: operator-level quantization and memory bandwidth constraints
-- Goal: maximize local inference throughput under power limits
-- Output: reproducible benchmarking notes (publishing in progress)
-
-### SurferGarage 2.0
-
-Permissionless collaboration architecture with reputation and routing mechanisms.
-
-- Protocol: bounty routing + immutable contribution state
-- Infra: high-availability backend and automation-oriented workflows
-- Design: anti-fragile operation and transparent execution rules
+- **AlphaHunter / Quant Terminal:** low-latency research-to-execution in `Rust` + `Python`, 18 production iterations.
+- **Edge Inference Direction:** FPGA and RISC-V co-design for throughput under power constraints.
+- **SurferGarage 2.0:** permissionless collaboration mechanisms with transparent routing and reputation state.
 
 ## Architecture Snapshot
 
