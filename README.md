@@ -19,7 +19,7 @@ Current_Bandwidth: Auditing FPGA quantization bottlenecks and AlphaHunter DEX ro
 | :--- | :--- | :--- | :--- |
 | **AlphaHunter (LASZLO)** | Quant Terminal | Real-time microstructure analysis and deterministic execution routing. [Architecture](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal) | ![Production](https://img.shields.io/badge/Production-e43c39?style=flat-square) |
 | **Edge Inference Synergy** | Hardware / AI | Profiling LLM bottlenecks and operator-level quantization on FPGA and RISC-V targets. [WIP Notes](https://github.com/FranklinNexus/FranklinNexus.github.io) | ![Research WIP](https://img.shields.io/badge/Research-WIP-6b7280?style=flat-square) |
-| **SurferGarage 2.0** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://www.wisdomechoes.net) | ![Incubating](https://img.shields.io/badge/Incubating-111111?style=flat-square) |
+| **SurferGarage** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://www.wisdomechoes.net) | ![Incubating](https://img.shields.io/badge/Incubating-111111?style=flat-square) |
 
 ## Execution Flow
 
