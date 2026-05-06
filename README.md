@@ -26,7 +26,7 @@ CTO & System Builder. Bridging high-performance infrastructure, hardware-softwar
   </tr>
   <tr>
     <td width="72" align="center" valign="top">
-      <img src="https://img.icons8.com/ios-filled/50/000000/microchip.png" width="36" alt="Hardware Synergy">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardware/hardware-original.svg" width="40" alt="Hardware Synergy">
     </td>
     <td valign="top">
       <b>Edge Inference & Hardware Synergy</b><br>
@@ -58,18 +58,18 @@ CTO & System Builder. Bridging high-performance infrastructure, hardware-softwar
 
 ```mermaid
 flowchart LR
-    A[Market / Chain Feeds] --> B[Ingestion]
+    A[Market / On-chain Feeds] --> B[Ingestion]
     B --> C[Normalization + Labeling]
     C --> D[Signal Engine]
     D --> E[Risk Gate]
     E --> F[Execution Router]
-    F --> G[Exchange / DEX]
-    G --> H[Telemetry]
+    F --> G[Execution Venue / DEX]
+    G --> H[Telemetry + Post-Trade Analytics]
     H --> D
 ```
 
 ## Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranklinNexus&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinNexus&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranklinNexus&show_icons=true&theme=radical&hide_border=true)](https://github.com/FranklinNexus)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinNexus&layout=compact&theme=radical&hide_border=true)](https://github.com/FranklinNexus)
 <!-- markdownlint-enable MD033 -->
