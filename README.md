@@ -26,7 +26,7 @@ CTO & System Builder. Bridging high-performance infrastructure, hardware-softwar
   </tr>
   <tr>
     <td width="72" align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardware/hardware-original.svg" width="40" alt="Hardware Synergy">
+      <img src="https://img.shields.io/badge/HW-EDGE-black?style=flat-square" alt="Hardware Synergy">
     </td>
     <td valign="top">
       <b>Edge Inference & Hardware Synergy</b><br>
