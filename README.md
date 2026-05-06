@@ -7,6 +7,19 @@ CTO & System Builder. Bridging high-performance infrastructure, hardware-softwar
 
 <br>
 
+## Arsenal
+
+<p>
+  <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-RISC--V-black?style=flat-square" alt="RISC-V">
+  <img src="https://img.shields.io/badge/-FPGA-black?style=flat-square" alt="FPGA">
+  <img src="https://img.shields.io/badge/-Agentic_Workflows-black?style=flat-square" alt="Agentic Workflows">
+</p>
+
+<br>
+
 ## Core Systems
 
 <table width="100%">
@@ -55,9 +68,13 @@ CTO & System Builder. Bridging high-performance infrastructure, hardware-softwar
 
 ## Architecture Snapshot
 
-Quant pipeline follows a deterministic path: `Ingestion -> Signal -> Risk -> Execution -> Telemetry -> Feedback`.
+```text
+[Market/On-chain Feeds] --> (Ingestion) --> (Signal Engine) --> [Risk Gate] --> (Execution Router) --> [DEX/Venue]
+                                 ^                                                           |
+                                 |------------------- [Telemetry / Feedback] ----------------|
+```
 
-[View detailed architecture notes](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal)
+[Detailed notes](https://github.com/FranklinNexus/Omni-Asset-Quant-Terminal)
 
 ## Activity
 
