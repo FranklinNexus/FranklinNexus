@@ -1,36 +1,86 @@
-# Kuroshi Mira (FranklinNexus) ⚡
+<div align="center">
 
-CTO & System Builder. Focused on data-driven execution, anti-fragile system design, and deterministic architectures across quant and infrastructure domains.
+# 孔繁睿 · Franklin Nexus
 
-## Profile Matrix
+**Founder, Jinstone** · N1 Builder · Microelectronics @ XJTLU
 
-```text
-> system_profiler SPHardwareDataType
-Core_Stack       : [██████████] Python / Rust (Quant Engine & Data Infra)
-Hardware_Synergy : [████████░░] C / C++ / RISC-V / FPGA (AX7020)
-Agentic_Workflow : [█████████░] Workflow Automation / LLM Orchestration
-Build_Horizon    : [██████████] 2+ Years, 18 Production Iterations
-Current_Bandwidth: Auditing FPGA quantization bottlenecks and AlphaHunter DEX routing.
-```
+*Custom paths on silicon · closed loops on-chain*
 
-## Deployment Matrix
+<sub>径石中心线 · RISC-V 端侧推理 &nbsp;|&nbsp; LASZLO 终结线 · 链上 Alpha 系统工程</sub>
 
-| System / Project | Domain | Architecture & Focus | Status |
-| :--- | :--- | :--- | :--- |
-| **LASZLO** | Quant Terminal | Real-time microstructure analysis and deterministic execution routing. [Architecture](https://www.wisdomechoes.net/blog/laszlo-whitepaper-v2) | ![Production](https://img.shields.io/badge/Production-e43c39?style=flat-square) |
-| **Edge Inference Synergy** | Hardware / AI | Profiling LLM bottlenecks and operator-level quantization on FPGA and RISC-V targets. [WIP Notes](https://github.com/FranklinNexus/FranklinNexus.github.io) | ![Research WIP](https://img.shields.io/badge/Research-WIP-6b7280?style=flat-square) |
-| **SurferGarage** | Collaborative Network | Permissionless contribution, reputation state, and ecosystem routing primitives. [Ecosystem](https://lang-qian.com/) | ![Incubating](https://img.shields.io/badge/Incubating-111111?style=flat-square) |
+<br/>
 
-## Execution Flow
+[![Jinstone](https://img.shields.io/badge/Jinstone-Jinstone--Limited-1A1F26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinstone-Limited)
+[![LASZLO](https://img.shields.io/badge/LASZLO-Quantification-FFB24D?style=for-the-badge&logo=github&logoColor=0B0D10)](https://github.com/LASZLO-Quantification)
+[![Whitepaper](https://img.shields.io/badge/LASZLO-Whitepaper_v2-0B0D10?style=for-the-badge&logo=readthedocs&logoColor=FFB24D)](https://wisdomechoes.net/blog/laszlo-whitepaper-v2)
+[![Site](https://img.shields.io/badge/wisdomechoes.net-15181D?style=for-the-badge&logo=link&logoColor=F4F5F7)](https://wisdomechoes.net)
+
+</div>
+
+---
+
+## `system_profiler`
 
 ```text
-[Market/On-chain Feeds] --> (Ingestion) --> (Signal Engine) --> [Risk Gate] --> (Execution Router) --> [DEX/Venue]
-                                      ^                                              |
-                                      |---------- [Telemetry / Feedback] ------------|
+Identity         : Founder · Jinstone  |  N1 Builder Fellowship (Cohort 1)
+Core_Stack       : Rust / Python — ingest → signal → execute → audit
+Silicon_Wedge    : RISC-V · FPGA (AX7020) · MoE routing · matmul hotspots
+Chain_Surface    : Base L2 · institutional alpha terminal (LASZLO)
+Build_Discipline : Ship measurable loops — not slide decks
+Current_Focus    : Edge inference profiling · LASZLO soak → Phase 6 path
 ```
 
-## Proof of Work
+---
 
-- **Quant Systems:** shipped 18 iterations on terminal architecture from ingestion to execution path.
-- **Infrastructure:** designed deterministic control flow with explicit risk gating before order routing.
-- **Hardware Track:** active FPGA/RISC-V inference profiling for bandwidth and quantization bottlenecks.
+## Deployment matrix
+
+| Line | Org | Focus | Status |
+|:-----|:----|:------|:-------|
+| **径石 · Jinstone** | [Jinstone-Limited](https://github.com/Jinstone-Limited) | Edge AI on open RISC-V — routing × matmul × integration | `R&D` |
+| **LASZLO** | [LASZLO-Quantification](https://github.com/LASZLO-Quantification) | Closed-loop on-chain alpha — ingest · infer · execute · risk | `Engineering` |
+| **Public works** | ↑ orgs + [FranklinNexus](https://github.com/FranklinNexus) | Omni terminal · KeyVeil · Juno HUD · Nyanpasu · … | `Open` |
+
+> **Firewall:** one message — Jinstone *or* LASZLO. Media / community tracks stay separate from cap table.
+
+---
+
+## Two loops
+
+**Silicon** — profile → extend ISA → prove on FPGA → integrate at edge
+
+```text
+[Workload] → (Profile) → [RISC-V ext] → (FPGA/sim) → [Edge inference]
+```
+
+**Chain** — same discipline, different surface
+
+```text
+[On-chain feeds] → (Ingest) → (Signal) → [Risk gate] → (Execute) → [Base L2]
+                              ↑________________telemetry________________↓
+```
+
+---
+
+## Proof of work
+
+- **LASZLO:** heterogeneous Rust + Python stack; whitepaper [v2](https://wisdomechoes.net/blog/laszlo-whitepaper-v2); [public satellites](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects) shipped
+- **Jinstone:** MoE / sparse-workload-first silicon path — software baseline before custom instructions
+- **Delivery:** [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) on Play Store path (APK) · [Omni-Asset Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil)
+
+---
+
+## Connect
+
+| | |
+|---|---|
+| **Site** | [wisdomechoes.net](https://wisdomechoes.net) |
+| **X** | [@FranklinNexus](https://x.com/FranklinNexus) |
+| **Telegram** | [t.me/FranklinNexus](https://t.me/FranklinNexus) |
+
+---
+
+<div align="center">
+
+<sub>Shanghai · 20 · building like an infrastructure team</sub>
+
+</div>
