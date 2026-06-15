@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://afdian.com/a/FranklinNexus">
-    <img src="https://img.shields.io/badge/💖_SPONSOR_ME-爱发电-946ce6?style=flat-square&logoColor=white" alt="Sponsor" />
+    <img src="https://img.shields.io/badge/💖_SPONSOR_ME-946ce6?style=flat-square&logoColor=white" alt="Sponsor" />
   </a>
 </div>
 
@@ -16,8 +16,7 @@
 
 [![Jinstone](https://img.shields.io/badge/Jinstone-1A1F26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinstone-Limited)
 [![LASZLO](https://img.shields.io/badge/LASZLO-FFB24D?style=for-the-badge&logo=github&logoColor=0B0D10)](https://github.com/LASZLO-Quantification)
-[![SurferGarage](https://img.shields.io/badge/浪前-SurferGarage-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurferGarage)
-[![Whitepaper](https://img.shields.io/badge/LASZLO_Whitepaper_v2-0B0D10?style=for-the-badge&logo=readthedocs&logoColor=FFB24D)](https://wisdomechoes.net/blog/laszlo-whitepaper-v2)
+[![SurferGarage](https://img.shields.io/badge/浪前-SurferGarage-060644?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurferGarage)
 
 </div>
 
