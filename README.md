@@ -60,7 +60,7 @@ shipping  : Startup-playbook · KeyVeil · Omni · Nyanpasu · …
 
 ## Shipped
 
-**浪前** [Startup-playbook](https://github.com/SurferGarage/Startup-playbook) · [surfergarage-www](https://github.com/SurferGarage/surfergarage-www)
+**浪前** [Startup-playbook](https://github.com/SurferGarage/Startup-playbook) · [failure-manual](https://github.com/SurferGarage/failure-manual) · [surfergarage-www](https://github.com/SurferGarage/surfergarage-www)
 
 **Engineering** [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni-Asset Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) · [more](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects)
 
