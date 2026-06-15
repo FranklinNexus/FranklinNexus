@@ -71,11 +71,3 @@ feeds → ingest → signal → [risk] → execute → surface
 <tr><td><strong>Lab</strong></td><td><a href="https://github.com/FranklinNexus/Nyanpasu">Nyanpasu</a> · <a href="https://github.com/FranklinNexus/Juno-Oversight">Juno</a> · <a href="https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects">more</a></td></tr>
 </tbody>
 </table>
-
----
-
-<div align="center">
-
-<sub>Shanghai · [wisdomechoes.net](https://wisdomechoes.net)</sub>
-
-</div>
