@@ -2,7 +2,7 @@
 
 # 孔繁睿 · Franklin Nexus
 
-**Founder, Jinstone** · N1 Builder · Microelectronics @ XJTLU
+**Founder, Jinstone** · N1 Builder
 
 *Custom paths on silicon · closed loops on-chain*
 
@@ -27,7 +27,7 @@ Core_Stack       : Rust / Python — ingest → signal → execute → audit
 Silicon_Wedge    : RISC-V · FPGA (AX7020) · MoE routing · matmul hotspots
 Chain_Surface    : Base L2 · institutional alpha terminal (LASZLO)
 Build_Discipline : Ship measurable loops — not slide decks
-Current_Focus    : Edge inference profiling · LASZLO soak → Phase 6 path
+Current_Focus    : Edge inference profiling · LASZLO production hardening
 ```
 
 ---
@@ -65,22 +65,30 @@ Current_Focus    : Edge inference profiling · LASZLO soak → Phase 6 path
 
 - **LASZLO:** heterogeneous Rust + Python stack; whitepaper [v2](https://wisdomechoes.net/blog/laszlo-whitepaper-v2); [public satellites](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects) shipped
 - **Jinstone:** MoE / sparse-workload-first silicon path — software baseline before custom instructions
-- **Delivery:** [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) on Play Store path (APK) · [Omni-Asset Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil)
-
----
-
-## Connect
-
-| | |
-|---|---|
-| **Site** | [wisdomechoes.net](https://wisdomechoes.net) |
-| **X** | [@FranklinNexus](https://x.com/FranklinNexus) |
-| **Telegram** | [t.me/FranklinNexus](https://t.me/FranklinNexus) |
+- **Delivery:** [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) · [Omni-Asset Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil)
 
 ---
 
 <div align="center">
 
-<sub>Shanghai · 20 · building like an infrastructure team</sub>
+### Sponsor
+
+Open infrastructure takes time. If my work helps you build:
+
+<a href="https://afdian.com/a/FranklinNexus">
+  <img src="https://img.shields.io/badge/爱发电-赞助我-946ce6?style=for-the-badge&logo=heart&logoColor=white" alt="Sponsor on 爱发电" />
+</a>
+
+<br/>
+
+<sub>径石 · LASZLO · 公开作品 — 持续开源与硬工程</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Shanghai · building like an infrastructure team</sub>
 
 </div>
