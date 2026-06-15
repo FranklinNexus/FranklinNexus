@@ -63,12 +63,14 @@ feeds → ingest → signal → [risk] → execute → surface
 
 ### Shipped
 
-| | |
-|:--|:--|
-| **Silicon** | [Jinstone](https://github.com/Jinstone-Limited) — reference designs · lab on profile |
-| **Chain** | [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [docs](https://github.com/LASZLO-Quantification/.github/tree/main/docs) |
-| **Wave** | [Playbook](https://github.com/SurferGarage/Startup-playbook) · [失败手册](https://github.com/SurferGarage/failure-manual) · [路径](https://github.com/SurferGarage/.github/blob/main/docs/LEARNING_PATH.md) · [surfergarage.com](https://www.surfergarage.com) |
-| **Lab** | [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) · [Juno](https://github.com/FranklinNexus/Juno-Oversight) · [more](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects) |
+<table>
+<tbody>
+<tr><td><strong>Silicon</strong></td><td><a href="https://github.com/Jinstone-Limited">Jinstone</a> — reference designs · lab on profile</td></tr>
+<tr><td><strong>Chain</strong></td><td><a href="https://github.com/LASZLO-Quantification/KeyVeil">KeyVeil</a> · <a href="https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal">Omni</a> · <a href="https://github.com/LASZLO-Quantification/.github/tree/main/docs">docs</a></td></tr>
+<tr><td><strong>Wave</strong></td><td><a href="https://github.com/SurferGarage/Startup-playbook">Playbook</a> · <a href="https://github.com/SurferGarage/failure-manual">失败手册</a> · <a href="https://github.com/SurferGarage/.github/blob/main/docs/LEARNING_PATH.md">路径</a> · <a href="https://www.surfergarage.com">surfergarage.com</a></td></tr>
+<tr><td><strong>Lab</strong></td><td><a href="https://github.com/FranklinNexus/Nyanpasu">Nyanpasu</a> · <a href="https://github.com/FranklinNexus/Juno-Oversight">Juno</a> · <a href="https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects">more</a></td></tr>
+</tbody>
+</table>
 
 ---
 
