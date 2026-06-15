@@ -8,7 +8,7 @@
 
 # Franklin Nexus
 
-**Founder, Jinstone** · **Co-builder, [浪前 SurferGarage](https://github.com/SurferGarage)**
+**Founder, [Jinstone](https://github.com/Jinstone-Limited)** · **Co-builder, [浪前 SurferGarage](https://github.com/SurferGarage)**
 
 *Paths on silicon. Loops on-chain. Signal before the wave.*
 
@@ -30,12 +30,12 @@ Execution surfaces move slower than narratives — and slower than models.
 |:-----|:------|:------|
 | **Silicon** | MoE routing × matmul × RISC-V | [Jinstone](https://github.com/Jinstone-Limited) |
 | **Chain** | Ingest → infer → execute → risk | [LASZLO](https://github.com/LASZLO-Quantification) |
-| **Wave** | Builder media · open playbook · hacker growth | [SurferGarage](https://github.com/SurferGarage) |
+| **Wave** | Builder media · open playbooks · failure logs | [SurferGarage](https://github.com/SurferGarage) |
 
-Infrastructure on the bottom two layers. **浪前** on the surface that finds builders before the wave breaks.
+Cold infrastructure on silicon and chain. **浪前** on the surface — find builders before the wave breaks.
 
-> One discipline everywhere: **measure → gate → ship → audit.**  
-> One focus per pitch — pick a lane, go deep.
+> **measure → gate → ship → audit** everywhere.  
+> **One pitch, one lane** — go deep where you stand.
 
 ---
 
@@ -45,28 +45,31 @@ Infrastructure on the bottom two layers. **浪前** on the surface that finds bu
 stack     : Rust / Python — closed loops, explicit risk gates
 silicon   : RISC-V · FPGA · routing-first inference
 chain     : Base L2 · institutional alpha terminal
-wave      : 浪前 · AI-era super-individuals & open startup craft
+wave      : 浪前 · media + Startup-playbook + failure-manual
 standard  : measurable artifacts over narrative
-shipping  : Startup-playbook · KeyVeil · Omni · Nyanpasu · …
 ```
 
 ```text
-[feeds] → ingest → signal → [risk] → execute → surface
-              ↑______________telemetry______________↓
+feeds → ingest → signal → [risk] → execute → surface
+              ↑___________telemetry___________↓
 ```
 
 ---
 
 ## Shipped
 
-**浪前** [Startup-playbook](https://github.com/SurferGarage/Startup-playbook) · [failure-manual](https://github.com/SurferGarage/failure-manual) · [surfergarage-www](https://github.com/SurferGarage/surfergarage-www)
+| | |
+|:--|:--|
+| **浪前** | [Playbook](https://github.com/SurferGarage/Startup-playbook) · [失败手册](https://github.com/SurferGarage/failure-manual) · [学习路径](https://github.com/SurferGarage/.github/blob/main/docs/LEARNING_PATH.md) · [官网](https://www.surfergarage.com) |
+| **LASZLO** | [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [docs](https://github.com/LASZLO-Quantification/.github/tree/main/docs) |
+| **Lab** | [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) · [Juno Oversight](https://github.com/FranklinNexus/Juno-Oversight) · [more](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects) |
 
-**Engineering** [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni-Asset Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) · [more](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects)
+径石 reference designs maturing at [Jinstone-Limited](https://github.com/Jinstone-Limited) · public experiments on this profile.
 
 ---
 
 <div align="center">
 
-<sub>Shanghai</sub>
+<sub>Shanghai · [wisdomechoes.net](https://wisdomechoes.net)</sub>
 
 </div>
