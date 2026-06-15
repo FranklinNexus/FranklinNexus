@@ -1,6 +1,6 @@
 <div align="right">
   <a href="https://afdian.com/a/FranklinNexus">
-    <img src="https://img.shields.io/badge/💖_SPONSOR_ME-946ce6?style=flat-square&logoColor=white" alt="Sponsor" />
+    <img src="https://img.shields.io/badge/💖-SPONSOR_ME-946ce6?style=flat-square&logoColor=white" alt="Sponsor" />
   </a>
 </div>
 
