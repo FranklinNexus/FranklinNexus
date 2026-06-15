@@ -1,94 +1,75 @@
 <div align="center">
 
-# 孔繁睿 · Franklin Nexus
+# Franklin Nexus
 
-**Founder, Jinstone** · N1 Builder
+**Founder, Jinstone** · Builder
 
-*Custom paths on silicon · closed loops on-chain*
-
-<sub>径石中心线 · RISC-V 端侧推理 &nbsp;|&nbsp; LASZLO 终结线 · 链上 Alpha 系统工程</sub>
+*Paths on silicon. Loops on-chain.*
 
 <br/>
 
-[![Jinstone](https://img.shields.io/badge/Jinstone-Jinstone--Limited-1A1F26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinstone-Limited)
-[![LASZLO](https://img.shields.io/badge/LASZLO-Quantification-FFB24D?style=for-the-badge&logo=github&logoColor=0B0D10)](https://github.com/LASZLO-Quantification)
-[![Whitepaper](https://img.shields.io/badge/LASZLO-Whitepaper_v2-0B0D10?style=for-the-badge&logo=readthedocs&logoColor=FFB24D)](https://wisdomechoes.net/blog/laszlo-whitepaper-v2)
-[![Site](https://img.shields.io/badge/wisdomechoes.net-15181D?style=for-the-badge&logo=link&logoColor=F4F5F7)](https://wisdomechoes.net)
+[![Jinstone](https://img.shields.io/badge/Jinstone-1A1F26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinstone-Limited)
+[![LASZLO](https://img.shields.io/badge/LASZLO-FFB24D?style=for-the-badge&logo=github&logoColor=0B0D10)](https://github.com/LASZLO-Quantification)
+[![Whitepaper](https://img.shields.io/badge/Whitepaper_v2-0B0D10?style=for-the-badge&logo=readthedocs&logoColor=FFB24D)](https://wisdomechoes.net/blog/laszlo-whitepaper-v2)
 
 </div>
 
 ---
 
-## `system_profiler`
+## Thesis
+
+Model structure keeps shifting. **Execution surfaces barely move.**
+
+On silicon: routing and sparsity outgrow dense-GPU assumptions.  
+On-chain: signal volume outruns disciplined execution.
+
+I build in both gaps — **not as apps, as infrastructure:**
+
+| Surface | Wedge | Org |
+|:--------|:------|:----|
+| **Silicon** | MoE routing × matmul × RISC-V | [Jinstone](https://github.com/Jinstone-Limited) |
+| **Chain** | Ingest → infer → execute → risk | [LASZLO](https://github.com/LASZLO-Quantification) |
+
+> One discipline: **profile → gate → ship → audit.**  
+> One rule per conversation: Jinstone *or* LASZLO.
+
+---
+
+## `whoami`
 
 ```text
-Identity         : Founder · Jinstone  |  N1 Builder Fellowship (Cohort 1)
-Core_Stack       : Rust / Python — ingest → signal → execute → audit
-Silicon_Wedge    : RISC-V · FPGA (AX7020) · MoE routing · matmul hotspots
-Chain_Surface    : Base L2 · institutional alpha terminal (LASZLO)
-Build_Discipline : Ship measurable loops — not slide decks
-Current_Focus    : Edge inference profiling · LASZLO production hardening
+stack     : Rust / Python — closed loops, explicit risk gates
+silicon   : RISC-V · FPGA · routing-first inference path
+chain     : Base L2 · institutional alpha terminal
+standard  : measurable artifacts over narrative
+shipping  : KeyVeil · Omni terminal · Nyanpasu · Juno · …
+```
+
+```text
+[feeds] → ingest → signal → [risk] → execute → surface
+              ↑______________telemetry______________↓
 ```
 
 ---
 
-## Deployment matrix
+## Shipped
 
-| Line | Org | Focus | Status |
-|:-----|:----|:------|:-------|
-| **径石 · Jinstone** | [Jinstone-Limited](https://github.com/Jinstone-Limited) | Edge AI on open RISC-V — routing × matmul × integration | `R&D` |
-| **LASZLO** | [LASZLO-Quantification](https://github.com/LASZLO-Quantification) | Closed-loop on-chain alpha — ingest · infer · execute · risk | `Engineering` |
-| **Public works** | ↑ orgs + [FranklinNexus](https://github.com/FranklinNexus) | Omni terminal · KeyVeil · Juno HUD · Nyanpasu · … | `Open` |
-
-> **Firewall:** one message — Jinstone *or* LASZLO. Media / community tracks stay separate from cap table.
-
----
-
-## Two loops
-
-**Silicon** — profile → extend ISA → prove on FPGA → integrate at edge
-
-```text
-[Workload] → (Profile) → [RISC-V ext] → (FPGA/sim) → [Edge inference]
-```
-
-**Chain** — same discipline, different surface
-
-```text
-[On-chain feeds] → (Ingest) → (Signal) → [Risk gate] → (Execute) → [Base L2]
-                              ↑________________telemetry________________↓
-```
-
----
-
-## Proof of work
-
-- **LASZLO:** heterogeneous Rust + Python stack; whitepaper [v2](https://wisdomechoes.net/blog/laszlo-whitepaper-v2); [public satellites](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects) shipped
-- **Jinstone:** MoE / sparse-workload-first silicon path — software baseline before custom instructions
-- **Delivery:** [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) · [Omni-Asset Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil)
+[KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni-Asset Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) · [more](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects)
 
 ---
 
 <div align="center">
 
-### Sponsor
+**Sponsor**
 
-Open infrastructure takes time. If my work helps you build:
+Infrastructure is a long game. If this work compounds for you:
 
 <a href="https://afdian.com/a/FranklinNexus">
-  <img src="https://img.shields.io/badge/爱发电-赞助我-946ce6?style=for-the-badge&logo=heart&logoColor=white" alt="Sponsor on 爱发电" />
+  <img src="https://img.shields.io/badge/爱发电-赞助我-946ce6?style=for-the-badge&logo=heart&logoColor=white" alt="爱发电" />
 </a>
 
 <br/>
 
-<sub>径石 · LASZLO · 公开作品 — 持续开源与硬工程</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Shanghai · building like an infrastructure team</sub>
+<sub>Shanghai</sub>
 
 </div>
