@@ -1,16 +1,23 @@
+<div align="right">
+  <a href="https://afdian.com/a/FranklinNexus">
+    <img src="https://img.shields.io/badge/💖_SPONSOR_ME-爱发电-946ce6?style=flat-square&logoColor=white" alt="Sponsor" />
+  </a>
+</div>
+
 <div align="center">
 
 # Franklin Nexus
 
-**Founder, Jinstone** · Builder
+**Founder, Jinstone** · **Co-builder, [浪前 SurferGarage](https://github.com/SurferGarage)**
 
-*Paths on silicon. Loops on-chain.*
+*Paths on silicon. Loops on-chain. Signal before the wave.*
 
 <br/>
 
 [![Jinstone](https://img.shields.io/badge/Jinstone-1A1F26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinstone-Limited)
 [![LASZLO](https://img.shields.io/badge/LASZLO-FFB24D?style=for-the-badge&logo=github&logoColor=0B0D10)](https://github.com/LASZLO-Quantification)
-[![Whitepaper](https://img.shields.io/badge/Whitepaper_v2-0B0D10?style=for-the-badge&logo=readthedocs&logoColor=FFB24D)](https://wisdomechoes.net/blog/laszlo-whitepaper-v2)
+[![SurferGarage](https://img.shields.io/badge/浪前-SurferGarage-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurferGarage)
+[![Whitepaper](https://img.shields.io/badge/LASZLO_Whitepaper_v2-0B0D10?style=for-the-badge&logo=readthedocs&logoColor=FFB24D)](https://wisdomechoes.net/blog/laszlo-whitepaper-v2)
 
 </div>
 
@@ -18,20 +25,18 @@
 
 ## Thesis
 
-Model structure keeps shifting. **Execution surfaces barely move.**
+Execution surfaces move slower than narratives — and slower than models.
 
-On silicon: routing and sparsity outgrow dense-GPU assumptions.  
-On-chain: signal volume outruns disciplined execution.
-
-I build in both gaps — **not as apps, as infrastructure:**
-
-| Surface | Wedge | Org |
-|:--------|:------|:----|
+| Lane | Wedge | Where |
+|:-----|:------|:------|
 | **Silicon** | MoE routing × matmul × RISC-V | [Jinstone](https://github.com/Jinstone-Limited) |
 | **Chain** | Ingest → infer → execute → risk | [LASZLO](https://github.com/LASZLO-Quantification) |
+| **Wave** | Builder media · open playbook · hacker growth | [SurferGarage](https://github.com/SurferGarage) |
 
-> One discipline: **profile → gate → ship → audit.**  
-> One rule per conversation: Jinstone *or* LASZLO.
+Infrastructure on the bottom two layers. **浪前** on the surface that finds builders before the wave breaks.
+
+> One discipline everywhere: **measure → gate → ship → audit.**  
+> One focus per pitch — pick a lane, go deep.
 
 ---
 
@@ -39,10 +44,11 @@ I build in both gaps — **not as apps, as infrastructure:**
 
 ```text
 stack     : Rust / Python — closed loops, explicit risk gates
-silicon   : RISC-V · FPGA · routing-first inference path
+silicon   : RISC-V · FPGA · routing-first inference
 chain     : Base L2 · institutional alpha terminal
+wave      : 浪前 · AI-era super-individuals & open startup craft
 standard  : measurable artifacts over narrative
-shipping  : KeyVeil · Omni terminal · Nyanpasu · Juno · …
+shipping  : Startup-playbook · KeyVeil · Omni · Nyanpasu · …
 ```
 
 ```text
@@ -54,21 +60,13 @@ shipping  : KeyVeil · Omni terminal · Nyanpasu · Juno · …
 
 ## Shipped
 
-[KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni-Asset Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) · [more](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects)
+**浪前** [Startup-playbook](https://github.com/SurferGarage/Startup-playbook) · [surfergarage-www](https://github.com/SurferGarage/surfergarage-www)
+
+**Engineering** [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni-Asset Terminal](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal) · [Nyanpasu](https://github.com/FranklinNexus/Nyanpasu) · [more](https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects)
 
 ---
 
 <div align="center">
-
-**Sponsor**
-
-Infrastructure is a long game. If this work compounds for you:
-
-<a href="https://afdian.com/a/FranklinNexus">
-  <img src="https://img.shields.io/badge/爱发电-赞助我-946ce6?style=for-the-badge&logo=heart&logoColor=white" alt="爱发电" />
-</a>
-
-<br/>
 
 <sub>Shanghai</sub>
 
