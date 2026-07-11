@@ -1,73 +1,97 @@
-<div align="right">
-  <a href="https://afdian.com/a/FranklinNexus">
-    <img src="https://img.shields.io/badge/💖-SPONSOR_ME-946ce6?style=flat-square&logoColor=white" alt="Sponsor" />
-  </a>
-</div>
-
 <div align="center">
 
 # Franklin Nexus
 
-**Founder, [Jinstone](https://github.com/Jinstone-Limited)** · **Co-builder, [浪前 SurferGarage](https://github.com/SurferGarage)**
+**Founder and systems builder. Four projects, built in public.**
 
-<sub><i>Paths on silicon · Loops on-chain · Signal before the wave</i></sub>
+[Jinstone](https://github.com/Jinstone-Limited) · [LASZLO](https://github.com/LASZLO-Quantification) · [Juno Oversight](https://github.com/FranklinNexus/Juno-Oversight) · [SurferGarage](https://github.com/SurferGarage)
 
-<br/>
+<br />
 
-<sub>在时代浪潮之前，看见路径之外的可能性</sub>
-
-<br/><br/>
-
-[![Jinstone](https://img.shields.io/badge/Silicon-Jinstone-1A1F26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jinstone-Limited)
-[![LASZLO](https://img.shields.io/badge/Chain-LASZLO-FFB24D?style=for-the-badge&logo=github&logoColor=0B0D10)](https://github.com/LASZLO-Quantification)
-[![SurferGarage](https://img.shields.io/badge/Wave-浪前_SurferGarage-060644?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurferGarage)
+[![Writing](https://img.shields.io/badge/Writing-Wisdom_Echoes-111111?style=flat-square)](https://wisdomechoes.net)
+[![X](https://img.shields.io/badge/X-FranklinNexus-111111?style=flat-square)](https://x.com/FranklinNexus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FranklinNexus-0A66C2?style=flat-square)](https://www.linkedin.com/in/FranklinNexus)
+[![Email](https://img.shields.io/badge/Email-Contact-6B7280?style=flat-square)](mailto:kfr3413745914@gmail.com)
 
 </div>
 
 ---
 
-### Thesis
+## Projects `01 / 04`
 
-Execution surfaces move slower than narratives — **and slower than models.**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Lane | Wedge | Where |
-|:-----|:------|:------|
-| **Silicon** | MoE routing × matmul × RISC-V | [Jinstone](https://github.com/Jinstone-Limited) |
-| **Chain** | Ingest → infer → execute → risk | [LASZLO](https://github.com/LASZLO-Quantification) |
-| **Wave** | Media · playbooks · failure logs | [SurferGarage](https://github.com/SurferGarage) |
+<sub>01 · FOUNDER · BUILDING</sub>
 
-Cold infrastructure on **silicon** and **chain**. **浪前** on the surface — find builders before the wave breaks.
+### [Jinstone / 径石](https://github.com/Jinstone-Limited)
+
+**Routing-first inference on open silicon.**
+
+Jinstone works on the path from workload profiling to deployable acceleration: MoE routing, matmul hotspots, RISC-V extensions, simulation, and FPGA validation.
+
+`MoE` `RISC-V` `FPGA` `Inference`
+
+[Project →](https://github.com/Jinstone-Limited)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>02 · FOUNDER · ACTIVE RESEARCH</sub>
+
+### [LASZLO Quantification](https://github.com/LASZLO-Quantification)
+
+**Risk-first infrastructure for automated decisions.**
+
+LASZLO connects data, decision models, policy gates, execution boundaries, and auditable state. Public reference systems include KeyVeil and Omni-Asset Quant Terminal.
+
+`Policy` `Execution` `Quant` `Audit`
+
+[Project](https://github.com/LASZLO-Quantification) · [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>03 · INDEPENDENT · OPEN SOURCE</sub>
+
+### [Juno Oversight](https://github.com/FranklinNexus/Juno-Oversight)
+
+**The runtime for long-running AI work.**
+
+Juno gives agent work durable checkpoints, deterministic review gates, bounded autonomy, replay, and human-approved promotion. Models generate; gates decide.
+
+`Runtime` `Oversight` `Agents` `Tauri`
+
+[Repository](https://github.com/FranklinNexus/Juno-Oversight) · [Architecture](https://github.com/FranklinNexus/Juno-Oversight/blob/main/wiki/juno-architecture.md) · [Quick start](https://github.com/FranklinNexus/Juno-Oversight#quick-start)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>04 · CO-BUILDER · PUBLISHING</sub>
+
+### [浪前 SurferGarage](https://github.com/SurferGarage)
+
+**Open startup education for young builders.**
+
+SurferGarage turns founder interviews, field records, playbooks, and failure cases into a beginner-first path for learning entrepreneurship.
+
+`Media` `Education` `Playbooks` `Community`
+
+[Organization](https://github.com/SurferGarage) · [Startup Playbook](https://github.com/SurferGarage/Startup-playbook) · [Learning path](https://github.com/SurferGarage/.github/blob/main/docs/LEARNING_PATH.md)
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<sub><b>measure → gate → ship → audit</b> · <b>one pitch, one lane</b></sub>
+**Shanghai · Hong Kong**
+
+[wisdomechoes.net](https://wisdomechoes.net) · [Telegram](https://t.me/FranklinNexus) · [Sponsor](https://afdian.com/a/FranklinNexus)
 
 </div>
-
----
-
-### `whoami`
-
-```text
-stack   : Rust / Python · closed loops · explicit risk gates
-silicon : RISC-V · FPGA · routing-first inference
-chain   : Base L2 · institutional alpha terminal
-wave    : 浪前 · playbook · failure-manual
-standard: measurable artifacts over narrative
-
-feeds → ingest → signal → [risk] → execute → surface
-              ↑___________telemetry___________↓
-```
-
----
-
-### Shipped
-
-<table>
-<tbody>
-<tr><td><strong>Silicon</strong></td><td><a href="https://github.com/Jinstone-Limited">Jinstone</a> — reference designs · lab on profile</td></tr>
-<tr><td><strong>Chain</strong></td><td><a href="https://github.com/LASZLO-Quantification/KeyVeil">KeyVeil</a> · <a href="https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal">Omni</a> · <a href="https://github.com/LASZLO-Quantification/.github/tree/main/docs">docs</a></td></tr>
-<tr><td><strong>Wave</strong></td><td><a href="https://github.com/SurferGarage/Startup-playbook">Playbook</a> · <a href="https://github.com/SurferGarage/failure-manual">失败手册</a> · <a href="https://github.com/SurferGarage/.github/blob/main/docs/LEARNING_PATH.md">路径</a> · <a href="https://www.surfergarage.com">surfergarage.com</a></td></tr>
-<tr><td><strong>Lab</strong></td><td><a href="https://github.com/FranklinNexus/Nyanpasu">Nyanpasu</a> · <a href="https://github.com/FranklinNexus/Juno-Oversight">Juno</a> · <a href="https://github.com/LASZLO-Quantification/.github/tree/main/docs/projects">more</a></td></tr>
-</tbody>
-</table>
