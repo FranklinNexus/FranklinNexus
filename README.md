@@ -17,7 +17,7 @@
 
 ---
 
-## Projects `01 / 04`
+## Projects 
 
 <table>
 <tr>
