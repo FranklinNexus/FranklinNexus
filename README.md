@@ -4,7 +4,7 @@
 
 **Founder and systems builder. Four projects, built in public.**
 
-[Jinstone](https://github.com/Jinstone-Limited) · [LASZLO](https://github.com/LASZLO-Quantification) · [Juno Oversight](https://github.com/FranklinNexus/Juno-Oversight) · [SurferGarage](https://github.com/SurferGarage)
+[Jinstone](https://github.com/Jinstone-Limited) · [Szigor Research](https://github.com/LASZLO-Quantification) · [Juno Oversight](https://github.com/FranklinNexus/Juno-Oversight) · [SurferGarage](https://github.com/SurferGarage)
 
 <br />
 
@@ -40,15 +40,15 @@ Jinstone works on the path from workload profiling to deployable acceleration: M
 
 <sub>02 · FOUNDER · ACTIVE RESEARCH</sub>
 
-### [LASZLO Quantification](https://github.com/LASZLO-Quantification)
+### [Szigor Research](https://github.com/LASZLO-Quantification)
 
-**Risk-first infrastructure for automated decisions.**
+**Evidence-bound systems for market decisions.**
 
-LASZLO connects data, decision models, policy gates, execution boundaries, and auditable state. Public reference systems include KeyVeil and Omni-Asset Quant Terminal.
+Szigor Research is the public research identity for LASZLO and JANOS. Its reference systems turn point-in-time evidence, explicit risk gates, deterministic execution, and recoverable state into inspectable engineering practice.
 
 `Policy` `Execution` `Quant` `Audit`
 
-[Project](https://github.com/LASZLO-Quantification) · [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal)
+[Organization](https://github.com/LASZLO-Quantification) · [KeyVeil](https://github.com/LASZLO-Quantification/KeyVeil) · [Omni](https://github.com/LASZLO-Quantification/Omni-Asset-Quant-Terminal)
 
 </td>
 </tr>
